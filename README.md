@@ -31,7 +31,7 @@ Time of played hand
 Maximum number of players per table  
 <br> 
 ### level (integer)  
-Blinds level  
+Blinds levels  
 <br> 
 ### playing (integer)  
 Number of players in the table  
