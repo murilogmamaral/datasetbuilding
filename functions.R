@@ -58,7 +58,7 @@ tourn_id <- function(line) {
   r
 }
 
-table_id <- function(line) {
+table_number <- function(line) {
  w <- gsub(".*\'(.+)\'.*","\\1",line)
  word(w,2)
 }
@@ -216,7 +216,7 @@ store_round <- function(GAME,HAND,unstructured_data,mylogin) {
   
   df_round <- data.frame(buyin = rep(buyin(base[1]),n),
                           tourn_id = rep(tourn_id(base[1]),n),
-                          table_id = rep(table_id(base[2]),n),
+                          table = rep(table_number(base[2]),n),
                           hand_id = rep(hand(base[1]),n),
                           date = rep(date,n),
                           time = rep(time,n),
