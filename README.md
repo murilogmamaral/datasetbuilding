@@ -17,8 +17,8 @@ Amount paid (USD) to play the tournament
 ### tourn_id (character)  
 Tournament id  
 <br> 
-### table_id (character)  
-Table  id  
+### table (character)  
+Table number reference in the tournament  
 <br> 
 ### hand_id (character)  
 Hand id  
