@@ -213,7 +213,7 @@ store_round <- function(GAME,HAND,unstructured_data,mylogin) {
   playing <- sum(!is.na(players))
   
   n <- length(players)
-  
+   
   df_round <- data.frame(buyin = rep(buyin(base[1]),n),
                           tourn_id = rep(tourn_id(base[1]),n),
                           table = rep(table_number(base[2]),n),

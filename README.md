@@ -2,6 +2,8 @@
 Data engineering project aimed to build a dataset of online poker games.  
 
 I wrote this code last year (July 2020) when I started to get into the data world. It was mainly developed to study Spin & Go tournaments, but it might work generally. It performs well, but regex can certainly be improved. Also, today I wouldn’t use so many conditions and loops that take a lot of time to process. Finally, some older poker players have logins with special characters and this might affect data. I usually find about 2% of corrupt data because of that.  
+
+Please go to [kaggle.com/murilogmamaral/online-poker-games](https://www.kaggle.com/murilogmamaral/online-poker-games) if you want to see my generated dataset.
 <br> 
 <br> 
 
@@ -15,8 +17,8 @@ Amount paid (USD) to play the tournament
 ### tourn_id (character)  
 Tournament id  
 <br> 
-### table_id (character)  
-Table  id  
+### table (character)  
+Table number reference in the tournament  
 <br> 
 ### hand_id (character)  
 Hand id  
@@ -31,7 +33,7 @@ Time of played hand
 Maximum number of players per table  
 <br> 
 ### level (integer)  
-Blinds level  
+Blinds levels  
 <br> 
 ### playing (integer)  
 Number of players in the table  
