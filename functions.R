@@ -1,7 +1,5 @@
 library(tidyverse)
 
-mylogin <- "YOUR_LOGIN"
-
 build_dataset <- function(unstructured_data) {
   df <- NULL
   for (GAME in 1:length(unstructured_data)) {
