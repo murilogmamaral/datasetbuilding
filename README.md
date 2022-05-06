@@ -34,7 +34,7 @@ Seat 1: villain_A (button) folded before Flop (didn't bet)
 Seat 2: garciamurilo (small blind) folded on the Turn
 Seat 3: villain_B (big blind) collected (40)
 ```
-<br>  Processing this example with my _R_ code, you will get tree rows, one for each player with detailed information of all their actions and profits. Here it is:
+<br>  Processing this example with my _R_ code, you will get a structured data with three rows, one for each player with detailed information of all their actions and profits. Here it is:
 
 buyin|tourn_id|table|hand_id|date|time|table_size|level|playing|seat|name|stack|position|action_pre|action_flop|action_turn|action_river|all_in|cards|board_flop|board_turn|board_river|combination|pot_pre|pot_flop|pot_turn|pot_river|ante|blinds|bet_pre|bet_flop|bet_turn|bet_river|result|balance|
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
