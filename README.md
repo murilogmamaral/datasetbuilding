@@ -45,7 +45,7 @@ $0.23+$0.02|2967580470|1|216746978471|2020-07-24|14:21:17|3|1|3|3|villain_B|530|
 <br>  
 
 After exploring many possibilities, I found out that it was the perfect structure to get a good exploratory data analysis of my tournaments. So I was able to transform and plot data to get insights about my game and to study my opponents. An example: <br>  
-![](https://www.kaggleusercontent.com/kf/80492232/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..w4_skDIvXMOi-5kERaT31A.9TZHOunJ01SD8z2jZNPoOrZiELvRTL0h0bLLjFKYTykPEH9MDbHsgL7z2MOeVpz0MVUCm6cTnfkWRNIZhOgoOnibjhwUNmiX2Xa217tgdxS1gMQGrbIYZ1Cj252nVU-lyh_ED8sSUnlV1PXTMZFK8ja-sYeKueqzKX4VqoSz19IiAnEkyzXquapMV2hD_OG3g14nLhmhPOJg7BIY6FUD-SHDd6qfF_EhrGK5OiTwbxeyFkKSc7n19ZX0LrbJD9_8UxJw9QgZSZMZTiruZ_rs3vEVEuyf3I7t6iyftHuCxEXdc4UHVLQNbs5qMeZSNMxFjcdsWDOXRz3AVrMRoMX201UHfU_J4w0t5NFkOqe5GcyWwoM2DTuZv71C2hvAaBqN78GWFeR_nWakkYERYNAbvMUZfl7qum9TjOw2AkSeswj25hCT4ZiFW1sHKj3zXln85IO0ekflR-KVGt1JdRnokujlTZLSW_f4WkqWFhtht2ye_6zD_q3FvKPOlpHr1I98Sn-V_Vn_ItUkoYGFDXXCG9Jllr0GYSk973xkQ9uFRl_c_X2Uy__h64kQoOSFMAmn41DG_EZieDZQffjxGJDPMvFiiYfRtg-9wHogkZsxQ4D8AJIQkB3p1EAkQUVg1W6jmRUo3AcwD264JpF21zZgX-sir8AmAta92toJ2lQAuGaCJ8BA5M7x8c38U0TSEFGW.2SKmpSB2i51TSyvPYEmrTQ/__results___files/__results___4_0.png)
+![](https://raw.githubusercontent.com/murilogmamaral/datasetbuilding/main/plot.png)
 <br><br>  
 
 ### Limitations
